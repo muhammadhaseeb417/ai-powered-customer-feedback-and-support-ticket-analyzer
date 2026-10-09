@@ -1,0 +1,4 @@
+ticket_id,message,status,category,priority,sentiment,product_feature,suggested_auto_reply
+1,The payment page crashes every time I click 'Checkout' on Chrome. Please fix this ASAP!,Processed,Bug Report,Urgent,Negative,Payment Page,Thank you for reporting the issue with Payment Page. We’re sorry for the disruption; our team will review it.
+2,"Hi team, it would be awesome if you could add a dark mode to the mobile app.",Processed,Feature Request,Medium,Positive,Dark Mode,Thank you for suggesting Dark Mode. We appreciate your feedback and will share it with our product team.
+3,"Hello, hope you are having a nice day!",Ignored,,,,,
